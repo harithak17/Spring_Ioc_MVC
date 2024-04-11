@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="90" stop-timeout="15" testEnvironment="true" timestamp="6">
+    <list key="modules" value0="Spring91_MVC_UserRegistration::org.eclipse.jst.j2ee.server:Spring91_MVC_UserRegistration::jst.web::2.3" value1="Spring9_MVC_User::org.eclipse.jst.j2ee.server:Spring9_MVC_User::jst.web::2.3" value2="Spring6_MVC_Simple::org.eclipse.jst.j2ee.server:Spring6_MVC_Simple::jst.web::2.3" value3="Spring7_MVC_JDBC::org.eclipse.jst.j2ee.server:Spring7_MVC_JDBC::jst.web::2.3" value4="Spring8_MVC_Student::org.eclipse.jst.jee.server:Spring8_MVC_Student::jst.web::3.0"/>
+  </server>
+</servers>
